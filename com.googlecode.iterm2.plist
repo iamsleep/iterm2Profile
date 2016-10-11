@@ -26178,7 +26178,7 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>220 124 606 469 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>359 433 1018 447 0 0 1680 1027 </string>
+	<string>359 381 796 473 0 0 1680 1027 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>155 593 592 584 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
@@ -27004,7 +27004,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url https://git.corp.yahoo.com/search?q=\0+extension:\1&amp;type=Code</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url https://git.corp.yahoo.com/search?q=\2+extension:\3&amp;type=Code</string>
 							<key>title</key>
 							<string>Query</string>
 						</dict>
@@ -27012,9 +27012,9 @@
 					<key>notes</key>
 					<string>Git Query</string>
 					<key>precision</key>
-					<string>very_low</string>
+					<string>very_high</string>
 					<key>regex</key>
-					<string>[\w]+\.(inc|php|phtml|cc|C|java|html|txt|md|yml)</string>
+					<string>(\/?[\w\-]+\/)*([\w\-]+.(inc|php|phtml|cc|C|java|html|txt|md|yml))</string>
 				</dict>
 			</array>
 			<key>Sync Title</key>
@@ -27857,7 +27857,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url https://git.corp.yahoo.com/search?q=\0+extension:\1&amp;type=Code</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url https://git.corp.yahoo.com/search?q=\2+extension:\3&amp;type=Code</string>
 							<key>title</key>
 							<string>Query</string>
 						</dict>
@@ -27867,7 +27867,7 @@
 					<key>precision</key>
 					<string>very_high</string>
 					<key>regex</key>
-					<string>[\w]+\.(inc|php|phtml|cc|C|java|html|txt|md|yml)</string>
+					<string>(\/?[\w\-]+\/)*([\w\-]+.(inc))</string>
 				</dict>
 			</array>
 			<key>Sync Title</key>
@@ -31206,7 +31206,7 @@
 	<key>PasteTabToStringTabStopSize</key>
 	<integer>4</integer>
 	<key>PathsToIgnore</key>
-	<string>/home/iamsleep/,~/,/home,/home/y/,/home/y/share/,/home/y/share/pear/,/home/y/share/pear/Yahoo/,/home/y/share/pear/Yahoo/merchantsuite/plugins/order/</string>
+	<string>/home/iamsleep/,~/,/home,/home/y/,/home/y/share/,/home/y/share/pear/,/home/y/share/pear/Yahoo/</string>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -31309,7 +31309,7 @@
 		<string>Recent Directories</string>
 	</array>
 	<key>TriggerRadius</key>
-	<integer>0</integer>
+	<integer>3</integer>
 	<key>TripleClickSelectsFullWrappedLines</key>
 	<false/>
 	<key>UKCrashReporterLastCrashReportDate</key>
