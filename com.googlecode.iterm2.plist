@@ -26178,7 +26178,7 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>220 124 606 469 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>359 381 796 473 0 0 1680 1027 </string>
+	<string>353 193 796 473 0 0 1680 1027 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>155 593 592 584 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
@@ -27867,7 +27867,7 @@
 					<key>precision</key>
 					<string>very_high</string>
 					<key>regex</key>
-					<string>(\/?[\w\-]+\/)*([\w\-]+.(inc))</string>
+					<string>(\/?[\w\-]+\/)*([\w\-]+.(inc|php|phtml|cc|C|java|html|txt|md|yml))</string>
 				</dict>
 			</array>
 			<key>Sync Title</key>
