@@ -26133,7 +26133,7 @@
 	gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
 	aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
 	ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-	DIAIgAlRMSNAdCAAAAAAANIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
+	DIAIgAlRMSNAczAAAAAAANIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
 	TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
 	ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
 	AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
@@ -26178,11 +26178,11 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>220 124 606 469 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>442 246 918 512 0 0 1680 1027 </string>
+	<string>369 287 918 512 0 0 1920 1057 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>127 443 592 584 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 48 1676 1009 0 0 1920 1057 </string>
+	<string>0 4 1410 1053 0 0 1680 1027 </string>
 	<key>NeverWarnAboutShortLivedSessions_9B47E4B1-56C9-4129-8906-F65F37D08BB4</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_9B47E4B1-56C9-4129-8906-F65F37D08BB4_selection</key>
@@ -27006,7 +27006,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url https://git.corp.yahoo.com/search?q=\2+extension:\3&amp;type=Code</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url https://git.corp.yahoo.com/search?q=filename%3A\2+extension:\3&amp;type=Code</string>
 							<key>title</key>
 							<string>Query</string>
 						</dict>
@@ -27859,7 +27859,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url https://git.corp.yahoo.com/search?q=\2+extension:\3&amp;type=Code</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url https://git.corp.yahoo.com/search?q=filename%3A\2+extension:\3&amp;type=Code</string>
 							<key>title</key>
 							<string>Query</string>
 						</dict>
@@ -30582,7 +30582,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-12-10T13:56:43Z</date>
+	<date>2016-12-15T23:22:53Z</date>
 	<key>SavePasteHistory</key>
 	<true/>
 	<key>Secure Input</key>
