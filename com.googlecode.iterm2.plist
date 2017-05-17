@@ -23,7 +23,7 @@
 	<key>AutoHideTmuxClientSession</key>
 	<false/>
 	<key>BadgeFont</key>
-	<string></string>
+	<string>Consolas</string>
 	<key>CheckTestRelease</key>
 	<true/>
 	<key>CloseBookmarksWindowAfterOpening</key>
@@ -25937,16 +25937,18 @@
 	<key>Default Arrangement Name</key>
 	<string>rhel6</string>
 	<key>Default Bookmark Guid</key>
-	<string>9B47E4B1-56C9-4129-8906-F65F37D08BB4</string>
+	<string>842FA728-7975-44D0-8602-C735DAA25586</string>
 	<key>DimBackgroundWindows</key>
-	<false/>
+	<true/>
 	<key>DimInactiveSplitPanes</key>
 	<true/>
 	<key>DimOnlyText</key>
-	<true/>
+	<false/>
 	<key>DisableFullscreenTransparency</key>
 	<false/>
 	<key>DoubleClickPerformsSmartSelection</key>
+	<false/>
+	<key>EnableProxyIcon</key>
 	<false/>
 	<key>EnableRendezvous</key>
 	<false/>
@@ -26095,9 +26097,9 @@
 	<key>HotkeyModifiers</key>
 	<integer>1048840</integer>
 	<key>IRMemory</key>
-	<integer>10</integer>
+	<integer>100</integer>
 	<key>JobName</key>
-	<false/>
+	<true/>
 	<key>LeftCommand</key>
 	<integer>7</integer>
 	<key>LeftOption</key>
@@ -26113,7 +26115,7 @@
 	<key>NSColorPanelMode</key>
 	<string>4</string>
 	<key>NSFontPanelAttributes</key>
-	<string>1, 1</string>
+	<string>1, 0</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/Pictures</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
@@ -26133,7 +26135,7 @@
 	gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
 	aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
 	ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-	DIAIgAlRMSNAdCAAAAAAANIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
+	DIAIgAlRMSNAczAAAAAAANIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
 	TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
 	ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
 	AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
@@ -26168,21 +26170,25 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>423 1948 212 309 0 1200 1920 1057 </string>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>640 1399 625 473 0 1050 1920 1057 </string>
+	<string>-984 334 625 339 -1920 -30 1920 1080 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>498 568 606 456 0 0 1680 1027 </string>
+	<key>NSWindow Frame ProfilesPanel</key>
+	<string>176 472 735 382 0 0 1920 1058 </string>
+	<key>NSWindow Frame SUAutomaticUpdateAlert</key>
+	<string>652 664 616 174 0 0 1920 1058 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
-	<string>760 1746 400 129 0 1050 1920 1057 </string>
+	<string>760 714 400 129 0 0 1920 1080 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>530 477 620 392 0 0 1680 1027 </string>
+	<string>530 478 620 392 0 0 1680 1028 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
-	<string>220 124 606 469 0 0 1680 1027 </string>
+	<string>269 136 606 469 0 0 1920 1080 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>290 652 918 381 0 0 1680 1050 </string>
+	<string>492 77 918 512 0 0 1920 1058 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
-	<string>127 443 592 584 0 0 1680 1027 </string>
+	<string>155 474 592 584 0 0 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 4 1410 1023 0 0 1680 1027 </string>
+	<string>0 4 1410 1054 0 0 1920 1058 </string>
 	<key>NeverWarnAboutShortLivedSessions_9B47E4B1-56C9-4129-8906-F65F37D08BB4</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_9B47E4B1-56C9-4129-8906-F65F37D08BB4_selection</key>
@@ -26213,7 +26219,7 @@
 			<key>Allow Title Reporting</key>
 			<false/>
 			<key>Allow Title Setting</key>
-			<false/>
+			<true/>
 			<key>Ambiguous Double Width</key>
 			<false/>
 			<key>Ansi 0 Color</key>
@@ -26394,6 +26400,8 @@
 				<key>Red Component</key>
 				<real>1</real>
 			</dict>
+			<key>Badge Text</key>
+			<string></string>
 			<key>Blend</key>
 			<real>0.30000001192092896</real>
 			<key>Blink Allowed</key>
@@ -26422,7 +26430,7 @@
 			<key>Columns</key>
 			<integer>200</integer>
 			<key>Command</key>
-			<string>ssh oxy-oxygen-0a52c638.corp.sg3.yahoo.com</string>
+			<string>ssh -A oxy-oxygen-0a52c73c.corp.sg3.yahoo.com</string>
 			<key>Cursor Boost</key>
 			<real>0.0</real>
 			<key>Cursor Color</key>
@@ -26800,13 +26808,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.67800000000000005</real>
+				<real>0.70492398738861084</real>
 				<key>Color Space</key>
 				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.27000000000000002</real>
+				<real>0.7228626012802124</real>
 				<key>Red Component</key>
-				<real>0.023</real>
+				<real>0.52286553382873535</real>
 			</dict>
 			<key>Log Directory</key>
 			<string></string>
@@ -26817,11 +26825,11 @@
 			<key>Name</key>
 			<string>tmux-ec</string>
 			<key>Non Ascii Font</key>
-			<string>FiraMonoForPowerline-Regular 12</string>
+			<string>UbuntuMonoDerivativePowerline-Regular 12</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Consolas 12</string>
+			<string>Monaco 12</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<true/>
 			<key>Option Key Sends</key>
@@ -26835,7 +26843,7 @@
 			<key>Screen</key>
 			<integer>-1</integer>
 			<key>Scrollback Lines</key>
-			<integer>0</integer>
+			<integer>200000</integer>
 			<key>Scrollback With Status Bar</key>
 			<false/>
 			<key>Scrollback in Alternate Screen</key>
@@ -26854,13 +26862,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.82439613342285156</real>
+				<real>0.70542252063751221</real>
 				<key>Color Space</key>
 				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.33005720376968384</real>
+				<real>0.72297292947769165</real>
 				<key>Red Component</key>
-				<real>0.19164538383483887</real>
+				<real>0.52334916591644287</real>
 			</dict>
 			<key>Semantic History</key>
 			<dict>
@@ -26958,7 +26966,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url \0</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Default -url \0</string>
 							<key>title</key>
 							<string>open</string>
 						</dict>
@@ -26995,7 +27003,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url http://dist.corp.yahoo.com/\1</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Default -url http://dist.corp.yahoo.com/\1</string>
 							<key>title</key>
 							<string>open url</string>
 						</dict>
@@ -27014,7 +27022,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url https://git.corp.yahoo.com/search?q=filename%3A\2+extension:\3&amp;type=Code</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Default -url https://git.corp.yahoo.com/search?q=filename%3A\2+extension:\3&amp;type=Code</string>
 							<key>title</key>
 							<string>Query</string>
 						</dict>
@@ -27024,7 +27032,7 @@
 					<key>precision</key>
 					<string>very_high</string>
 					<key>regex</key>
-					<string>(\/?[\w\-]+\/)*([\w\-]+.(inc|php|phtml|cc|C|java|html|txt|md|yml|pl))</string>
+					<string>(\/?[\w\-]+\/)*([\w\-]+.(inc|php|phtml|cc|C|java|html|txt|md|yml|pl|pm))</string>
 				</dict>
 			</array>
 			<key>Sync Title</key>
@@ -27040,7 +27048,7 @@
 			<key>Unicode Version</key>
 			<integer>8</integer>
 			<key>Unlimited Scrollback</key>
-			<true/>
+			<false/>
 			<key>Use Bold Font</key>
 			<true/>
 			<key>Use Bright Bold</key>
@@ -27076,7 +27084,7 @@
 			<key>Allow Title Reporting</key>
 			<false/>
 			<key>Allow Title Setting</key>
-			<false/>
+			<true/>
 			<key>Ambiguous Double Width</key>
 			<false/>
 			<key>Ansi 0 Color</key>
@@ -27283,7 +27291,7 @@
 			<key>Columns</key>
 			<integer>200</integer>
 			<key>Command</key>
-			<string>ssh oxy-oxygen-0a52c638.corp.sg3.yahoo.com</string>
+			<string>ssh -A oxy-oxygen-0a52c73c.corp.sg3.yahoo.com</string>
 			<key>Cursor Boost</key>
 			<real>0.0</real>
 			<key>Cursor Color</key>
@@ -27661,13 +27669,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.67800000000000005</real>
+				<real>0.70492398738861084</real>
 				<key>Color Space</key>
 				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.27000000000000002</real>
+				<real>0.7228626012802124</real>
 				<key>Red Component</key>
-				<real>0.023</real>
+				<real>0.52286553382873535</real>
 			</dict>
 			<key>Log Directory</key>
 			<string></string>
@@ -27678,11 +27686,11 @@
 			<key>Name</key>
 			<string>tmux-dev</string>
 			<key>Non Ascii Font</key>
-			<string>DroidSansMonoForPowerline 12</string>
+			<string>UbuntuMonoDerivativePowerline-Regular 12</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Consolas 12</string>
+			<string>Monaco 12</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<true/>
 			<key>Option Key Sends</key>
@@ -27696,7 +27704,7 @@
 			<key>Screen</key>
 			<integer>-1</integer>
 			<key>Scrollback Lines</key>
-			<integer>0</integer>
+			<integer>200000</integer>
 			<key>Scrollback With Status Bar</key>
 			<false/>
 			<key>Scrollback in Alternate Screen</key>
@@ -27715,13 +27723,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.82439613342285156</real>
+				<real>0.70492398738861084</real>
 				<key>Color Space</key>
 				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.33005720376968384</real>
+				<real>0.7228626012802124</real>
 				<key>Red Component</key>
-				<real>0.19164538383483887</real>
+				<real>0.52286553382873535</real>
 			</dict>
 			<key>Semantic History</key>
 			<dict>
@@ -27819,7 +27827,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url \0</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Default -url \0</string>
 							<key>title</key>
 							<string>open</string>
 						</dict>
@@ -27856,7 +27864,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url http://dist.corp.yahoo.com/\1</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Default  -url http://dist.corp.yahoo.com/\1</string>
 							<key>title</key>
 							<string>open url</string>
 						</dict>
@@ -27875,7 +27883,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url https://git.corp.yahoo.com/search?q=filename%3A\2+extension:\3&amp;type=Code</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Default -url https://git.corp.yahoo.com/search?q=filename%3A\2+extension:\3&amp;type=Code</string>
 							<key>title</key>
 							<string>Query</string>
 						</dict>
@@ -27885,7 +27893,7 @@
 					<key>precision</key>
 					<string>very_high</string>
 					<key>regex</key>
-					<string>(\/?[\w\-]+\/)*([\w\-]+.(inc|php|phtml|cc|C|java|html|txt|md|yml))</string>
+					<string>(\/?[\w\-]+\/)*([\w\-]+.(inc|php|phtml|cc|C|java|html|txt|md|yml|pl|pm))</string>
 				</dict>
 			</array>
 			<key>Sync Title</key>
@@ -27901,7 +27909,7 @@
 			<key>Unicode Version</key>
 			<integer>8</integer>
 			<key>Unlimited Scrollback</key>
-			<true/>
+			<false/>
 			<key>Use Bold Font</key>
 			<true/>
 			<key>Use Bright Bold</key>
@@ -28535,11 +28543,11 @@
 			<key>Name</key>
 			<string>java-dev</string>
 			<key>Non Ascii Font</key>
-			<string>InconsolataForPowerline 12</string>
+			<string>UbuntuMonoDerivativePowerline-Regular 12</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Inconsolata 13</string>
+			<string>Consolas 13</string>
 			<key>Option Key Sends</key>
 			<integer>2</integer>
 			<key>Prompt Before Closing 2</key>
@@ -28760,7 +28768,7 @@
 			<key>Allow Title Reporting</key>
 			<false/>
 			<key>Allow Title Setting</key>
-			<false/>
+			<true/>
 			<key>Ambiguous Double Width</key>
 			<false/>
 			<key>Ansi 0 Color</key>
@@ -28967,7 +28975,7 @@
 			<key>Columns</key>
 			<integer>200</integer>
 			<key>Command</key>
-			<string>ssh oxy-oxygen-0a52c6ea.corp.sg3.yahoo.com</string>
+			<string>ssh -A oxy-oxygen-0a52c6ea.corp.sg3.yahoo.com</string>
 			<key>Cursor Boost</key>
 			<real>0.0</real>
 			<key>Cursor Color</key>
@@ -29345,13 +29353,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.67800000000000005</real>
+				<real>0.70492398738861084</real>
 				<key>Color Space</key>
 				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.27000000000000002</real>
+				<real>0.7228626012802124</real>
 				<key>Red Component</key>
-				<real>0.023</real>
+				<real>0.52286553382873535</real>
 			</dict>
 			<key>Log Directory</key>
 			<string></string>
@@ -29362,11 +29370,11 @@
 			<key>Name</key>
 			<string>tmux-psi</string>
 			<key>Non Ascii Font</key>
-			<string>DroidSansMonoForPowerline 12</string>
+			<string>UbuntuMonoDerivativePowerline-Regular 12</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Consolas 12</string>
+			<string>Monaco 12</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<true/>
 			<key>Option Key Sends</key>
@@ -29380,7 +29388,7 @@
 			<key>Screen</key>
 			<integer>-1</integer>
 			<key>Scrollback Lines</key>
-			<integer>0</integer>
+			<integer>200000</integer>
 			<key>Scrollback With Status Bar</key>
 			<false/>
 			<key>Scrollback in Alternate Screen</key>
@@ -29399,13 +29407,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.82303977012634277</real>
+				<real>0.70492398738861084</real>
 				<key>Color Space</key>
 				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.32830810546875</real>
+				<real>0.7228626012802124</real>
 				<key>Red Component</key>
-				<real>0.19093763828277588</real>
+				<real>0.52286553382873535</real>
 			</dict>
 			<key>Semantic History</key>
 			<dict>
@@ -29503,7 +29511,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url \0</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Default -url \0</string>
 							<key>title</key>
 							<string>open</string>
 						</dict>
@@ -29540,7 +29548,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url http://dist.corp.yahoo.com/\1</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Default -url http://dist.corp.yahoo.com/\1</string>
 							<key>title</key>
 							<string>open url</string>
 						</dict>
@@ -29559,7 +29567,7 @@
 							<key>action</key>
 							<integer>2</integer>
 							<key>parameter</key>
-							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Profile\ 1 -url https://git.corp.yahoo.com/search?q=\2+extension:\3&amp;type=Code</string>
+							<string>/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --profile-directory=Default -url https://git.corp.yahoo.com/search?q=\2+extension:\3&amp;type=Code</string>
 							<key>title</key>
 							<string>Query</string>
 						</dict>
@@ -29569,7 +29577,7 @@
 					<key>precision</key>
 					<string>very_high</string>
 					<key>regex</key>
-					<string>(\/?[\w\-]+\/)*([\w\-]+.(inc|php|phtml|cc|C|java|html|txt|md|yml))</string>
+					<string>(\/?[\w\-]+\/)*([\w\-]+.(inc|php|phtml|cc|C|java|html|txt|md|yml|pl|pm))</string>
 				</dict>
 			</array>
 			<key>Sync Title</key>
@@ -29582,10 +29590,12 @@
 			<real>0.0</real>
 			<key>Triggers</key>
 			<array/>
+			<key>Unicode Normalization</key>
+			<integer>0</integer>
 			<key>Unicode Version</key>
 			<integer>8</integer>
 			<key>Unlimited Scrollback</key>
-			<true/>
+			<false/>
 			<key>Use Bold Font</key>
 			<true/>
 			<key>Use Bright Bold</key>
@@ -30208,13 +30218,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.67800000000000005</real>
+				<real>0.70492398738861084</real>
 				<key>Color Space</key>
 				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.27000000000000002</real>
+				<real>0.7228626012802124</real>
 				<key>Red Component</key>
-				<real>0.023</real>
+				<real>0.52286553382873535</real>
 			</dict>
 			<key>Log Directory</key>
 			<string></string>
@@ -30225,11 +30235,11 @@
 			<key>Name</key>
 			<string>laptop</string>
 			<key>Non Ascii Font</key>
-			<string>FiraMonoForPowerline-Regular 12</string>
+			<string>UbuntuMonoDerivativePowerline-Regular 12</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Consolas 12</string>
+			<string>Monaco 12</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<true/>
 			<key>Option Key Sends</key>
@@ -30259,12 +30269,16 @@
 			</dict>
 			<key>Selection Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.20000000298023224</real>
+				<real>0.70492398738861084</real>
+				<key>Color Space</key>
+				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.19607843458652496</real>
+				<real>0.7228626012802124</real>
 				<key>Red Component</key>
-				<real>0.18823529779911041</real>
+				<real>0.52286553382873535</real>
 			</dict>
 			<key>Semantic History</key>
 			<dict>
@@ -30476,7 +30490,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>95FF5D13-5E56-48E5-B1E7-81DC05F360DB</string>
 	<key>NoSyncLastTipTime</key>
-	<real>475371010.54824901</real>
+	<real>515373467.596286</real>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -30527,6 +30541,7 @@
 		<string>0025</string>
 		<string>0026</string>
 		<string>0027</string>
+		<string>0027</string>
 	</array>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
@@ -30535,7 +30550,7 @@
 	<key>OpenBookmark</key>
 	<false/>
 	<key>OpenNoWindowsAtStartup</key>
-	<true/>
+	<false/>
 	<key>OpenTmuxWindowsIn</key>
 	<integer>1</integer>
 	<key>PMPrintingExpandedStateForPrint2</key>
@@ -30592,7 +30607,7 @@
 	<key>QuickPasteDelayBetweenCalls</key>
 	<real>0.0029928917065262794</real>
 	<key>QuitWhenAllWindowsClosed</key>
-	<true/>
+	<false/>
 	<key>RestoreWindowContents</key>
 	<false/>
 	<key>RightCommand</key>
@@ -30606,11 +30621,11 @@
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/testing.xml?shard=2</string>
+	<string>https://iterm2.com/appcasts/nightly.xml?shard=2</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-12-17T03:12:55Z</date>
+	<date>2017-05-14T11:23:44Z</date>
 	<key>SavePasteHistory</key>
 	<true/>
 	<key>Secure Input</key>
@@ -30618,7 +30633,7 @@
 	<key>Show Toolbelt</key>
 	<false/>
 	<key>ShowBookmarkName</key>
-	<true/>
+	<false/>
 	<key>ShowFullScreenTabBar</key>
 	<true/>
 	<key>ShowNewOutputIndicator</key>
@@ -30633,12 +30648,14 @@
 	<true/>
 	<key>SplitPaneDimmingAmount</key>
 	<real>0.48128506541252136</real>
+	<key>StretchTabsToFillBar</key>
+	<false/>
 	<key>SwitchTabModifier</key>
 	<integer>4</integer>
 	<key>SwitchWindowModifier</key>
 	<integer>6</integer>
 	<key>TabStyle</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>TabViewType</key>
 	<integer>1</integer>
 	<key>ThreeFingerEmulates</key>
@@ -30654,7 +30671,7 @@
 	<key>TripleClickSelectsFullWrappedLines</key>
 	<false/>
 	<key>UKCrashReporterLastCrashReportDate</key>
-	<real>1480231936</real>
+	<real>1493285248</real>
 	<key>URLHandlersByGuid</key>
 	<dict/>
 	<key>UseBorder</key>
@@ -34389,10 +34406,12 @@
 	<string>/-+\~_.@</string>
 	<key>findIgnoreCase_iTerm</key>
 	<true/>
+	<key>findMode_iTerm</key>
+	<integer>4</integer>
 	<key>findRegex_iTerm</key>
 	<true/>
 	<key>iTerm Version</key>
-	<string>3.0.13</string>
+	<string>3.1.20170512-nightly</string>
 	<key>kCPFavoritesUserDefaultsKey</key>
 	<array>
 		<data>
