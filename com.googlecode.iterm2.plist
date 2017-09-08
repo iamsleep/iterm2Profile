@@ -39738,11 +39738,11 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 136 606 469 0 0 1920 1080 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>1321 473 796 473 0 0 3440 1418 </string>
+	<string>1321 434 796 473 0 0 3440 1418 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>155 474 592 584 0 0 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1015 0 1410 1418 0 0 3440 1418 </string>
+	<string>861 4 1718 1414 0 0 3440 1418 </string>
 	<key>NeverWarnAboutShortLivedSessions_75967324-A674-4064-8BD4-CD0BD5FF84E3</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_75967324-A674-4064-8BD4-CD0BD5FF84E3_selection</key>
@@ -43369,7 +43369,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-08-24T01:49:20Z</date>
+	<date>2017-08-28T14:57:24Z</date>
 	<key>SavePasteHistory</key>
 	<true/>
 	<key>Secure Input</key>
@@ -47147,7 +47147,7 @@
 	<key>WindowStyle</key>
 	<integer>0</integer>
 	<key>WordCharacters</key>
-	<string>;.:~/\-_</string>
+	<string>;.~/\-_</string>
 	<key>findIgnoreCase_iTerm</key>
 	<true/>
 	<key>findMode_iTerm</key>
