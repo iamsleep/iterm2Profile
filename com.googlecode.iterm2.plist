@@ -39502,6 +39502,8 @@
 	<false/>
 	<key>DoubleClickPerformsSmartSelection</key>
 	<false/>
+	<key>DwcLineCache</key>
+	<true/>
 	<key>EnableProxyIcon</key>
 	<false/>
 	<key>EnableRendezvous</key>
@@ -39689,7 +39691,7 @@
 	gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
 	aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
 	ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-	DIAIgAlRMSNAc7AAAAAAANIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
+	DIAIgAlRMSNAdKAAAAAAANIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
 	TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
 	ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
 	AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
@@ -39728,7 +39730,7 @@
 	<key>NSWindow Frame Preferences</key>
 	<string>498 568 606 456 0 0 1680 1027 </string>
 	<key>NSWindow Frame ProfilesPanel</key>
-	<string>623 786 735 382 0 0 3440 1418 </string>
+	<string>1783 635 735 382 0 0 3440 1418 </string>
 	<key>NSWindow Frame SUAutomaticUpdateAlert</key>
 	<string>1412 934 616 174 0 0 3440 1418 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
@@ -39736,13 +39738,13 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>1410 770 620 392 0 0 3440 1418 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
-	<string>269 136 606 469 0 0 1920 1080 </string>
+	<string>580 211 606 469 0 0 3440 1418 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>1321 434 796 473 0 0 3440 1418 </string>
+	<string>442 239 796 473 0 0 1680 1028 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>155 474 592 584 0 0 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>861 4 1718 1414 0 0 3440 1418 </string>
+	<string>135 17 1410 1011 0 0 1680 1028 </string>
 	<key>NeverWarnAboutShortLivedSessions_75967324-A674-4064-8BD4-CD0BD5FF84E3</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_75967324-A674-4064-8BD4-CD0BD5FF84E3_selection</key>
@@ -43369,7 +43371,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-08-28T14:57:24Z</date>
+	<date>2017-09-13T00:18:57Z</date>
 	<key>SavePasteHistory</key>
 	<true/>
 	<key>Secure Input</key>
@@ -47155,7 +47157,7 @@
 	<key>findRegex_iTerm</key>
 	<true/>
 	<key>iTerm Version</key>
-	<string>3.1.20170801-nightly</string>
+	<string>3.1.20170909-nightly</string>
 	<key>kCPFavoritesUserDefaultsKey</key>
 	<array>
 		<data>
