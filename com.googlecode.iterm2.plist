@@ -18,6 +18,8 @@
 	<integer>0</integer>
 	<key>AppleSmoothFixedFontsSizeThreshold</key>
 	<integer>1</integer>
+	<key>AppleWindowTabbingMode</key>
+	<string>manual</string>
 	<key>AutoCommandHistory</key>
 	<true/>
 	<key>AutoHideTmuxClientSession</key>
@@ -39671,7 +39673,7 @@
 	<key>NSColorPanelMode</key>
 	<string>4</string>
 	<key>NSFontPanelAttributes</key>
-	<string>1, 0</string>
+	<string>1, 1</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/Downloads/mbadolato-iTerm2-Color-Schemes-ff9b306/schemes</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
@@ -39691,7 +39693,7 @@
 	gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
 	aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
 	ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-	DIAIgAlRMSNAdKAAAAAAANIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
+	DIAIgAlRMSNAc7AAAAAAANIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
 	TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
 	ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
 	AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
@@ -39726,11 +39728,11 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>423 1948 212 309 0 1200 1920 1057 </string>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>2032 523 625 205 0 0 3440 1418 </string>
+	<string>1754 476 625 94 0 0 3440 1418 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>498 568 606 456 0 0 1680 1027 </string>
 	<key>NSWindow Frame ProfilesPanel</key>
-	<string>1783 635 735 382 0 0 3440 1418 </string>
+	<string>1185 280 735 382 0 0 1920 1178 </string>
 	<key>NSWindow Frame SUAutomaticUpdateAlert</key>
 	<string>1412 934 616 174 0 0 3440 1418 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
@@ -39740,11 +39742,11 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>580 211 606 469 0 0 3440 1418 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>442 239 796 473 0 0 1680 1028 </string>
+	<string>1322 443 796 473 0 0 3440 1418 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>155 474 592 584 0 0 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>135 17 1410 1011 0 0 1680 1028 </string>
+	<string>0 17 1914 1161 0 0 1920 1178 </string>
 	<key>NeverWarnAboutShortLivedSessions_75967324-A674-4064-8BD4-CD0BD5FF84E3</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_75967324-A674-4064-8BD4-CD0BD5FF84E3_selection</key>
@@ -40058,7 +40060,7 @@
 			<key>Hide After Opening</key>
 			<false/>
 			<key>Horizontal Spacing</key>
-			<real>1</real>
+			<real>0.98708701995481929</real>
 			<key>Idle Code</key>
 			<integer>0</integer>
 			<key>Initial Text</key>
@@ -40389,8 +40391,10 @@
 			<key>Name</key>
 			<string>tmux-ec</string>
 			<key>Non Ascii Font</key>
-			<string>FiraMonoForPowerline-Regular 10</string>
+			<string>FiraMonoForPowerline-Medium 9</string>
 			<key>Non-ASCII Anti Aliased</key>
+			<true/>
+			<key>Non-ASCII Ligatures</key>
 			<true/>
 			<key>Normal Font</key>
 			<string>Consolas 12</string>
@@ -40446,7 +40450,7 @@
 			<key>Shortcut</key>
 			<string></string>
 			<key>Silence Bell</key>
-			<false/>
+			<true/>
 			<key>Smart Cursor Color</key>
 			<true/>
 			<key>Smart Selection Rules</key>
@@ -40625,7 +40629,7 @@
 			<key>Use Italic Font</key>
 			<true/>
 			<key>Vertical Spacing</key>
-			<real>0.96923828125</real>
+			<real>1.0061299887048194</real>
 			<key>Visual Bell</key>
 			<false/>
 			<key>Window Type</key>
@@ -41265,7 +41269,7 @@
 			<key>Name</key>
 			<string>tmux-dev</string>
 			<key>Non Ascii Font</key>
-			<string>FiraMonoForPowerline-Regular 10</string>
+			<string>FiraMonoForPowerline-Medium 9</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
@@ -41322,7 +41326,7 @@
 			<key>Shortcut</key>
 			<string></string>
 			<key>Silence Bell</key>
-			<false/>
+			<true/>
 			<key>Smart Cursor Color</key>
 			<true/>
 			<key>Smart Selection Rules</key>
@@ -42122,7 +42126,7 @@
 			<key>Name</key>
 			<string>tmux-psi</string>
 			<key>Non Ascii Font</key>
-			<string>FiraMonoForPowerline-Regular 10</string>
+			<string>FiraMonoForPowerline-Medium 9</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
@@ -42179,7 +42183,7 @@
 			<key>Shortcut</key>
 			<string></string>
 			<key>Silence Bell</key>
-			<false/>
+			<true/>
 			<key>Smart Cursor Color</key>
 			<true/>
 			<key>Smart Selection Rules</key>
@@ -43040,7 +43044,7 @@
 			<key>Shortcut</key>
 			<string></string>
 			<key>Silence Bell</key>
-			<false/>
+			<true/>
 			<key>Smart Cursor Color</key>
 			<true/>
 			<key>Smart Selection Rules</key>
@@ -43371,7 +43375,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-09-13T00:18:57Z</date>
+	<date>2017-10-07T01:12:48Z</date>
 	<key>SavePasteHistory</key>
 	<true/>
 	<key>Secure Input</key>
@@ -47157,7 +47161,7 @@
 	<key>findRegex_iTerm</key>
 	<true/>
 	<key>iTerm Version</key>
-	<string>3.1.20170909-nightly</string>
+	<string>3.1.20171004-nightly</string>
 	<key>kCPFavoritesUserDefaultsKey</key>
 	<array>
 		<data>
