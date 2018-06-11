@@ -39810,6 +39810,8 @@
 	<true/>
 	<key>DoubleClickPerformsSmartSelection</key>
 	<false/>
+	<key>DrawOutlineAroundCursor</key>
+	<true/>
 	<key>DwcLineCache</key>
 	<true/>
 	<key>EnableDivisionView</key>
@@ -40006,7 +40008,7 @@
 	gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
 	aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
 	ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-	DIAIgAlRMSNAdKGdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
+	DIAIgAlRMSNAc7Gdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
 	TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
 	ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
 	AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
@@ -40030,17 +40032,17 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>973 478 224 280 0 0 3440 1417 </string>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>787 477 445 77 0 0 1680 1028 </string>
+	<string>282 199 445 77 0 0 1680 1028 </string>
 	<key>NSWindow Frame ProfilesPanel</key>
-	<string>0 1 1680 1027 0 0 1680 1028 </string>
+	<string>880 391 1680 1027 0 0 3440 1418 </string>
 	<key>NSWindow Frame SUAutomaticUpdateAlert</key>
 	<string>1412 932 616 174 0 0 3440 1417 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>530 476 620 392 0 0 1680 1027 </string>
+	<string>530 477 620 392 0 0 1680 1028 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 126 606 469 0 0 3440 1417 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>376 476 796 486 0 0 1680 1028 </string>
+	<string>1284 550 796 486 0 0 3440 1418 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>332 833 592 584 0 0 3440 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
@@ -40275,9 +40277,9 @@
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.0</real>
+				<real>0.043137254901960784</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.039215686274509803</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -40322,7 +40324,7 @@
 			<key>Close Sessions On End</key>
 			<true/>
 			<key>Columns</key>
-			<integer>200</integer>
+			<integer>219</integer>
 			<key>Command</key>
 			<string></string>
 			<key>Cursor Boost</key>
@@ -40721,13 +40723,13 @@
 			<key>Name</key>
 			<string>laptop</string>
 			<key>Non Ascii Font</key>
-			<string>HackNerdFontCompleteM-Regular 12</string>
+			<string>HackNerdFontCompleteM-Regular 14</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Non-ASCII Ligatures</key>
 			<false/>
 			<key>Normal Font</key>
-			<string>SauceCodeProNerdFontComplete-Regular 14</string>
+			<string>MonacoForPowerlineNerdFontComplete 10</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<true/>
 			<key>Option Key Sends</key>
@@ -40737,7 +40739,7 @@
 			<key>Right Option Key Sends</key>
 			<integer>0</integer>
 			<key>Rows</key>
-			<integer>200</integer>
+			<integer>47</integer>
 			<key>Screen</key>
 			<integer>0</integer>
 			<key>Scrollback Lines</key>
@@ -40975,7 +40977,7 @@
 			<key>Use Underline Color</key>
 			<false/>
 			<key>Vertical Spacing</key>
-			<real>1</real>
+			<real>1.5</real>
 			<key>Visual Bell</key>
 			<false/>
 			<key>Window Type</key>
@@ -41195,9 +41197,9 @@
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.0</real>
+				<real>0.044677734375</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.043060302734375</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -41219,7 +41221,7 @@
 			<key>Blend</key>
 			<real>0.050000000000000003</real>
 			<key>Blink Allowed</key>
-			<false/>
+			<true/>
 			<key>Blinking Cursor</key>
 			<true/>
 			<key>Blur</key>
@@ -41228,6 +41230,8 @@
 			<real>0.10000000000000001</real>
 			<key>Bold Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
 				<real>0.95294117647058818</real>
 				<key>Color Space</key>
@@ -41244,7 +41248,7 @@
 			<key>Close Sessions On End</key>
 			<true/>
 			<key>Columns</key>
-			<integer>100</integer>
+			<integer>219</integer>
 			<key>Command</key>
 			<string>ssh -vvv -A </string>
 			<key>Cursor Boost</key>
@@ -41283,7 +41287,7 @@
 				<real>0.23529411764705882</real>
 			</dict>
 			<key>Cursor Type</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>Custom Command</key>
 			<string>No</string>
 			<key>Custom Directory</key>
@@ -41314,7 +41318,7 @@
 			<key>Hide After Opening</key>
 			<false/>
 			<key>Horizontal Spacing</key>
-			<real>1</real>
+			<real>1.0031767695783129</real>
 			<key>Idle Code</key>
 			<integer>0</integer>
 			<key>Initial Text</key>
@@ -41643,13 +41647,13 @@
 			<key>Name</key>
 			<string>tmux-ec</string>
 			<key>Non Ascii Font</key>
-			<string>HackNerdFontComplete-Regular 12</string>
+			<string>MonacoForPowerlineNerdFontComplete 14</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Non-ASCII Ligatures</key>
 			<false/>
 			<key>Normal Font</key>
-			<string>SauceCodeProNerdFontComplete-Regular 14</string>
+			<string>MonacoForPowerlineNerdFontComplete 10</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<true/>
 			<key>Open Toolbelt</key>
@@ -41661,7 +41665,7 @@
 			<key>Right Option Key Sends</key>
 			<integer>0</integer>
 			<key>Rows</key>
-			<integer>100</integer>
+			<integer>47</integer>
 			<key>Screen</key>
 			<integer>0</integer>
 			<key>Scrollback Lines</key>
@@ -41906,7 +41910,7 @@
 			<key>Use Cursor Guide</key>
 			<false/>
 			<key>Use Italic Font</key>
-			<false/>
+			<true/>
 			<key>Use Non-ASCII Font</key>
 			<false/>
 			<key>Use Tab Color</key>
@@ -41914,7 +41918,7 @@
 			<key>Use Underline Color</key>
 			<false/>
 			<key>Vertical Spacing</key>
-			<real>1</real>
+			<real>1.5</real>
 			<key>Visual Bell</key>
 			<false/>
 			<key>Window Type</key>
@@ -42132,9 +42136,9 @@
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.0</real>
+				<real>0.043137254901960784</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.039215686274509803</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -42152,7 +42156,7 @@
 			<key>Blend</key>
 			<real>0.050000000000000003</real>
 			<key>Blink Allowed</key>
-			<false/>
+			<true/>
 			<key>Blinking Cursor</key>
 			<true/>
 			<key>Blur</key>
@@ -42177,7 +42181,7 @@
 			<key>Close Sessions On End</key>
 			<true/>
 			<key>Columns</key>
-			<integer>100</integer>
+			<integer>219</integer>
 			<key>Command</key>
 			<string>ssh -A oxy-oxygen-0a52c73c.corp.sg3.yahoo.com</string>
 			<key>Cursor Boost</key>
@@ -42582,7 +42586,7 @@
 			<key>Non-ASCII Ligatures</key>
 			<false/>
 			<key>Normal Font</key>
-			<string>SauceCodeProNerdFontComplete-Regular 14</string>
+			<string>MonacoForPowerlineNerdFontComplete 10</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<true/>
 			<key>Option Key Sends</key>
@@ -42592,7 +42596,7 @@
 			<key>Right Option Key Sends</key>
 			<integer>0</integer>
 			<key>Rows</key>
-			<integer>100</integer>
+			<integer>47</integer>
 			<key>Screen</key>
 			<integer>0</integer>
 			<key>Scrollback Lines</key>
@@ -42837,15 +42841,15 @@
 			<key>Use Cursor Guide</key>
 			<false/>
 			<key>Use Italic Font</key>
-			<false/>
+			<true/>
 			<key>Use Non-ASCII Font</key>
 			<false/>
 			<key>Use Tab Color</key>
 			<true/>
 			<key>Use Underline Color</key>
-			<true/>
+			<false/>
 			<key>Vertical Spacing</key>
-			<real>1</real>
+			<real>1.5</real>
 			<key>Visual Bell</key>
 			<false/>
 			<key>Window Type</key>
@@ -43065,9 +43069,9 @@
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.0</real>
+				<real>0.043137254901960784</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.039215686274509803</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -43087,7 +43091,7 @@
 			<key>Blend</key>
 			<real>0.050000000000000003</real>
 			<key>Blink Allowed</key>
-			<false/>
+			<true/>
 			<key>Blinking Cursor</key>
 			<true/>
 			<key>Blur</key>
@@ -43112,7 +43116,7 @@
 			<key>Close Sessions On End</key>
 			<true/>
 			<key>Columns</key>
-			<integer>100</integer>
+			<integer>219</integer>
 			<key>Command</key>
 			<string>ssh -A oxy-oxygen-0a52c7c8.corp.sg3.yahoo.com</string>
 			<key>Cursor Boost</key>
@@ -43517,7 +43521,7 @@
 			<key>Non-ASCII Ligatures</key>
 			<false/>
 			<key>Normal Font</key>
-			<string>SauceCodeProNerdFontComplete-Regular 14</string>
+			<string>MonacoForPowerlineNerdFontComplete 10</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<true/>
 			<key>Option Key Sends</key>
@@ -43527,7 +43531,7 @@
 			<key>Right Option Key Sends</key>
 			<integer>0</integer>
 			<key>Rows</key>
-			<integer>100</integer>
+			<integer>47</integer>
 			<key>Screen</key>
 			<integer>0</integer>
 			<key>Scrollback Lines</key>
@@ -43770,7 +43774,7 @@
 			<key>Use Cursor Guide</key>
 			<false/>
 			<key>Use Italic Font</key>
-			<false/>
+			<true/>
 			<key>Use Non-ASCII Font</key>
 			<false/>
 			<key>Use Tab Color</key>
@@ -43778,7 +43782,7 @@
 			<key>Use Underline Color</key>
 			<true/>
 			<key>Vertical Spacing</key>
-			<real>1</real>
+			<real>1.5</real>
 			<key>Visual Bell</key>
 			<false/>
 			<key>Window Type</key>
@@ -43887,7 +43891,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-06-05T07:12:09Z</date>
+	<date>2018-06-11T03:36:10Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -43895,7 +43899,7 @@
 	<key>Show Toolbelt</key>
 	<false/>
 	<key>ShowBookmarkName</key>
-	<true/>
+	<false/>
 	<key>ShowFullScreenTabBar</key>
 	<false/>
 	<key>ShowMetalFPSmeter</key>
@@ -43913,7 +43917,7 @@
 	<key>SmartPlacement</key>
 	<true/>
 	<key>SplitPaneDimmingAmount</key>
-	<real>0.22357272566893166</real>
+	<real>0.10000000000000001</real>
 	<key>StretchTabsToFillBar</key>
 	<false/>
 	<key>SwitchTabModifier</key>
@@ -43924,6 +43928,10 @@
 	<integer>3</integer>
 	<key>TabViewType</key>
 	<integer>1</integer>
+	<key>TerminalMargin</key>
+	<integer>5</integer>
+	<key>TerminalVMargin</key>
+	<integer>2</integer>
 	<key>ThreeFingerEmulates</key>
 	<false/>
 	<key>TmuxDashboardLimit</key>
@@ -47686,7 +47694,7 @@
 	<key>findRegex_iTerm</key>
 	<true/>
 	<key>iTerm Version</key>
-	<string>3.2.20180605-nightly</string>
+	<string>3.2.20180608-nightly</string>
 	<key>kCPFavoritesUserDefaultsKey</key>
 	<array>
 		<data>
